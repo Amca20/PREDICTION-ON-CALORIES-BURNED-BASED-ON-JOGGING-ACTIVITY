@@ -13,20 +13,6 @@ Traditional fitness tracking tools rely heavily on static look-up charts or gene
 * **Algorithmic Benchmarking:** Systematically evaluate complex machine learning architectures against baseline models to find the perfect balance between low variance and high explanatory power ($R^2$).
 * **Modular Pipeline Design:** Build an end-to-end reproducible script architecture—ranging from descriptive data ingestion to production-ready regression suites.
 
----
-
-## 🛠️ Proposed Solution & System Flowchart
-
-The system routes data dynamically through explicit cleaning bounds, categorical encodings, feature extractions, and model evaluations.
-
-### 🔄 Data & Execution Pipeline Diagram
-Here is the concrete operational logic flowchart designed and implemented for this machine learning pipeline:
-
-![System Architecture Flowchart](image_4f4ba6.png)
-
-*The workflow ensures that all features are properly scaled, transformed into numeric matrices, and isolated via Recursive Feature Elimination (RFE) before entering the model array.*
-
----
 
 ## 📊 Exploratory Data Analysis & Experimental Setup
 
